@@ -1,6 +1,6 @@
 Economic Behavior of Consumers During Volatility: A Case of Sales & Ownership of Automobiles in Turkey
 
-Hello everyone! For my MSc in Marketing thesis I’m doing an analysis of the following data. 
+For my MSc in Marketing thesis I’m doing an analysis of the following data. 
 My main purpose is getting into the reasonings behind sales with publicly available economic data, 
 in order to understand the drives of consumer decision-making processes – especially when it comes 
 to a purchase with a considerable amount of commitments, starting with the price itself. 
