@@ -1,4 +1,4 @@
-Gulce's Master Thesis Project
+Economic Behavior of Consumers During Volatility: A Case of Sales & Ownership of Automobiles in Turkey
 
 Hello everyone! For my MSc in Marketing thesis I’m doing an analysis of the following data. 
 My main purpose is getting into the reasonings behind sales with publicly available economic data, 
@@ -41,8 +41,7 @@ Yearly Data Variables
 *	mean_disposable_income: Yearly mean of household disposable income. Sourced from 
 TurkStat's distribution of annual household disposable income by deciles, 2006-2023.
 *	median_disposable_income: Yearly median of household disposable income. Sourced 
-from TurkStat's distribution of annual household disposable income by deciles, 2006-
-2023.
+from TurkStat's distribution of annual household disposable income by deciles, 2006-2023.
 *	unit_sales: Yearly automobile retail sales data, including automobiles and light 
 commercial vehicles. Sourced from OMDB/Automotive Distributors’ and Mobility 
 Association, Turkey - Retail Sales Data.
@@ -65,8 +64,7 @@ income in thousands.
 * population_mid: Non-institutional population with between 60% and 120% of 
 the median income. in thousands.
 *	ownership_mid: Automobile ownership of population_mid.
-*	ownership_high: Automobile ownership above 120% of the median 
-income.
+*	ownership_high: Automobile ownership above 120% of the median income.
 
 Contact:
 *	For any inquiries or further information, please contact gulce.ilter@alum.upf.edu 
